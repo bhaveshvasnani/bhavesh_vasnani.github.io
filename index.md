@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Bhavesh Vasnani's Webspace
 
-You can use the [editor on GitHub](https://github.com/bhaveshvasnani/bhaveshvasnani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Apiring developer, persistant and proficient student, Music Lover, Sci-Fi Maniac. I’m well-versed in negotiations, planning and development, management, operations, and coordination and scheduling. My specialities include android development, web development and C programming. I'm a computer science student who found his true passion in programming, teaching myself to code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Achievements
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of my awards and recognition I recieved are as follows:
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Recognition
 
-- Bulleted
-- List
+- Attended workshop in Rajasthan University for under top 40 rank in SCIPE.
+- Specialist in codeforces.
+  http://codeforces.com/profile/bhaveshvasnani197
+  [CodeForces](http://codeforces.com/profile/bhaveshvasnani197)
 
-1. Numbered
-2. List
+# Medals
 
-**Bold** and _Italic_ and `Code` text
+- Medal from Honorable Education Minister for achieving under top 30 in SSS.
+- Bronze medalist in Hackerrank contests.
+  https://www.hackerrank.com/bhaveshvasnani
+  [Hackerrank](https://www.hackerrank.com/bhaveshvasnani)
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhaveshvasnani/bhaveshvasnani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Email
+- bhaveshvasnani197@gmail.com
+
+## Mobile
+- 9003673155
+- 966088628
+
+### Profiles
+
+## LinkedIn
+- https://www.linkedin.com/in/bhavesh-vasnani/
+  [LinkedIn](https://www.linkedin.com/in/bhavesh-vasnani/)
+
+## GitHub
+- https://github.com/bhaveshvasnani
+  [GitHub](https://github.com/bhaveshvasnani)
+
+## Hackerrank
+- https://www.hackerrank.com/bhaveshvasnani
+  [Hackerrank](https://www.hackerrank.com/bhaveshvasnani)
+
+## CodeForces
+- http://codeforces.com/profile/bhaveshvasnani197
+  [CodeForces](http://codeforces.com/profile/bhaveshvasnani197)
+
+## CodeChef
+- https://www.codechef.com/users/bhavesh098
+  [CodeChef](https://www.codechef.com/users/bhavesh098)
