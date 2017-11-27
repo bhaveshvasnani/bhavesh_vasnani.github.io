@@ -13,21 +13,17 @@ Syntax highlighted code block
 
 - Attended workshop in Rajasthan University for under top 40 rank in SCIPE.
 - Specialist in codeforces.
-  http://codeforces.com/profile/bhaveshvasnani197
-  [CodeForces](http://codeforces.com/profile/bhaveshvasnani197)
 
 # Medals
 
 - Medal from Honorable Education Minister for achieving under top 30 in SSS.
 - Bronze medalist in Hackerrank contests.
-  https://www.hackerrank.com/bhaveshvasnani
-  [Hackerrank](https://www.hackerrank.com/bhaveshvasnani)
 
 ```
 
 ### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhaveshvasnani/bhaveshvasnani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Contact
 
