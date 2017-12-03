@@ -25,23 +25,23 @@ Syntax highlighted code block
 
 ## EZIT | ANDROID DEVELOPMENT PROJECT
 # Jun 2017 – Sep 2017 | Vellore, India
-• Designed creative application to ease the daily tasks by other users.
-• In built user to user live chat.
-• Used Firebase for authentication, crash reporting and realtime database
+- Designed creative application to ease the daily tasks by other users.
+- In built user to user live chat.
+- Used Firebase for authentication, crash reporting and realtime database
 
 
 ## CUSTOM CPU SCHEDULING ALGORITHM | OPERATING SYSTEM
 # Sep 2016 – Nov 2016 | Vellore, India
-• Used dynamic time quantum calculated by custom formula.
-• Developed to solve the problem of starvation in Process scheduling.
-• The errors were calculated and the conclusions were drawn based on the performance of all the different scheduling algorithms.
+- Used dynamic time quantum calculated by custom formula.
+- Developed to solve the problem of starvation in Process scheduling.
+- The errors were calculated and the conclusions were drawn based on the performance of all the different scheduling algorithms.
 
 
 ## TRIE BASED LANGUAGE TRANSLATION | DATA STRUCTURES PROJECT
 # Feb 2016 – May 2016 | Vellore, India
-• Made a simple and time complexity effective translation using trie.
-• It was implemented for a very small database of words for English to French translation.
-• Implemented Auto Complete functionality of trie as well.
+- Made a simple and time complexity effective translation using trie.
+- It was implemented for a very small database of words for English to French translation.
+- Implemented Auto Complete functionality of trie as well.
 
 
 ### Contact
