@@ -7,7 +7,6 @@ Apiring developer, persistant and proficient student, Music Lover, Sci-Fi Maniac
 Some of my awards and recognition I recieved are as follows:
 
 ```markdown
-Syntax highlighted code block
 
 # Recognition
 
