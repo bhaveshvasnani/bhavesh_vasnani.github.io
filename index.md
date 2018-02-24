@@ -18,6 +18,10 @@ Some of my awards and recognition I recieved are as follows:
 - Medal from Honorable Education Minister for achieving under top 30 in SSS.
 - Bronze medalist in Hackerrank contests.
 
+# Academics
+
+- CGPA: 9.44
+
 ```
 
 ### Projects
