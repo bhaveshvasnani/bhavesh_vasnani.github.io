@@ -1,6 +1,6 @@
 ## Bhavesh Vasnani's Webspace
 
-Aspiring developer, persistant and proficient student, Music Lover, Sci-Fi Maniac. I’m well-versed in negotiations, planning and development, management, operations, and coordination and scheduling. My specialities include android development, web development and C programming. I'm a computer science student who found his true passion in programming, teaching myself to code. To connect with me reach me out through mail, call or social media.
+Aspiring developer, persistant and proficient student, Music Lover, Sci-Fi Maniac. I’m well-versed in negotiations, planning and development, management, operations, and coordination and scheduling. My specialities include android development, web development and C programming. I'm a computer science student who found his true passion in programming, teaching myself to code and now want to work on good projects. To connect with me reach me out through mail, call or social media.
 
 ### Achievements
 
@@ -20,7 +20,7 @@ Some of my awards and recognition I recieved are as follows:
 
 # Academics
 
-- CGPA: 9.44 ( VIT University)
+- CGPA: 9.44 ( Pursuing B.Tech at VIT University )
 
 ```
 
