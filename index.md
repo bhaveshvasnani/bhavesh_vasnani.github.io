@@ -80,7 +80,8 @@ Some of my awards and recognition I recieved are as follows:
   
 
 ### Certifications
- - Certification name: C++
+
+- Certification name: C++
  - Certification authority: TestDome
  - License number: as84jk1b65
  - Time period - From :Mar, 2018
