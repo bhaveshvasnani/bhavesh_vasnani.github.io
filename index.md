@@ -77,3 +77,12 @@ Some of my awards and recognition I recieved are as follows:
 ## CodeChef
 - https://www.codechef.com/users/bhavesh098
   [CodeChef](https://www.codechef.com/users/bhavesh098)
+  
+
+#Certifications
+ - Certification name: C++
+ - Certification authority: TestDome
+ - License number: as84jk1b65
+ - Time period - From :Mar, 2018
+ - Time period - To: Indefinite
+ - Certification URL: https://www.testdome.com/cert/as84jk1b65  (copy)
