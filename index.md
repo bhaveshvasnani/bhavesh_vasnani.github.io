@@ -94,7 +94,7 @@ Some of my awards and recognition I recieved are as follows:
  
  - Certification name: Machine Learning
  - Certification authority: Coursera
- - License number: 4FRB6NTMBWK7
+ - License number: 5T5QWGKD63G3
  - Time period - From :Mar, 2018
  - Time period - To: Indefinite
- - Certification URL: [Certification] (https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3)
+ - Certification URL: [Certification](https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3)
