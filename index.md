@@ -89,3 +89,12 @@ Some of my awards and recognition I recieved are as follows:
  - Time period - From :Mar, 2018
  - Time period - To: Indefinite
  - Certification URL: [Certification](https://www.testdome.com/cert/as84jk1b65)
+ 
+ ## Machine Learning Coursera Certification
+ 
+ - Certification name: Machine Learning
+ - Certification authority: Coursera
+ - License number: 4FRB6NTMBWK7
+ - Time period - From :Mar, 2018
+ - Time period - To: Indefinite
+ - Certification URL: [Certification]https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3)
