@@ -30,7 +30,7 @@ Some of my awards and recognition I recieved are as follows:
 # Jun 2017 – Sep 2017 | Vellore, India
 - Designed creative application to ease the daily tasks by other users.
 - In built user to user live chat.
-- Used Firebase for authentication, crash reporting and realtime database
+- Used Firebase for authentication, crash reporting and realtime database.
 
 
 ## CUSTOM CPU SCHEDULING ALGORITHM | OPERATING SYSTEM
