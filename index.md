@@ -99,7 +99,7 @@ Some of my awards and recognition I recieved are as follows:
  - Time period - To: Indefinite
  - Certification URL: [Certification](https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3)
  
- ## Cryptography Coursera Certification
+## Cryptography Coursera Certification
  
  - Certification name: Cryptography
  - Certification authority: Coursera
