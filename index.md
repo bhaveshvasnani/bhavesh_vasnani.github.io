@@ -98,3 +98,12 @@ Some of my awards and recognition I recieved are as follows:
  - Time period - From :Mar, 2018
  - Time period - To: Indefinite
  - Certification URL: [Certification](https://www.coursera.org/account/accomplishments/certificate/5T5QWGKD63G3)
+ 
+ ## Cryptography Coursera Certification
+ 
+ - Certification name: Cryptography
+ - Certification authority: Coursera
+ - License number: DB7ARW6CHQKT
+ - Time period - From :Mar, 2018
+ - Time period - To: Indefinite
+ - Certification URL: [Certification](https://www.coursera.org/account/accomplishments/certificate/DB7ARW6CHQKT)
