@@ -20,7 +20,7 @@ Some of my awards and recognition I recieved are as follows:
 
 # Academics
 
-- CGPA: 9.44 ( Pursuing B.Tech at VIT University )
+- CGPA: 9.42 ( Pursuing B.Tech at VIT University )
 
 ```
 
